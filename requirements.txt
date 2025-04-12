@@ -1,5 +1,5 @@
-pip install dlib-bin==19.24.6
-pip install opencv-python
-pip install imutils
-pip install numpy
-pip install scipy
+dlib-bin==19.24.6
+opencv-python
+imutils
+numpy
+scipy
