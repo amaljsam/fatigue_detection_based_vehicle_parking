@@ -15,5 +15,5 @@ To run this project locally, follow these steps:
 
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/fatigue-detection.git
+git clone https://github.com/amaljsam/fatigue_detection_based_vehicle_parking.git
 cd fatigue-detection
