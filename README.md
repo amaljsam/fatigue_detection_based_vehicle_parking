@@ -18,3 +18,4 @@ To run this project locally, follow these steps:
 git clone https://github.com/amaljsam/fatigue_detection_based_vehicle_parking.git
 cd fatigue_detection_based_vehicle_parking
 pip install -r requirements.txt
+python main.py
